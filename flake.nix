@@ -16,6 +16,7 @@
         pkgs.neovim
         pkgs.tmux
         pkgs.alacritty
+        pkgs.jq
         pkgs.mkalias
         pkgs.home-manager
 	pkgs.zoxide
@@ -37,6 +38,7 @@
 	pkgs.gcc
 	pkgs.go
         pkgs.fd
+        pkgs.carapace
       ];
 
       # Homebrew packages
@@ -113,7 +115,7 @@
       system.defaults = {
         dock.autohide = true;
         dock.persistent-apps = [
-          "${pkgs.alacritty}/Applications/Alacritty.app"
+        "/Applications/WezTerm.app"
           "/Applications/Firefox.app"
           "/System/Applications/Mail.app"
           "/System/Applications/Calendar.app"
@@ -122,6 +124,8 @@
           "/Applications/Discord.app"
           "/Applications/Obsidian.app"
           "/Applications/IntelliJ IDEA.app"
+          "/Applications/WhatsApp.app"
+          "/Applications/Telegram.app"
         ];
         finder.FXPreferredViewStyle = "clmv";
         loginwindow.GuestEnabled = false;
