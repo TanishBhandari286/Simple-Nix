@@ -53,6 +53,7 @@
         ];
         casks = [
           "hammerspoon"
+          "karabiner-elements"
           "firefox"
           "iina"
           "the-unarchiver"
