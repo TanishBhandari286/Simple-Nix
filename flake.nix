@@ -39,6 +39,7 @@
 	pkgs.go
         pkgs.fd
         pkgs.carapace
+        pkgs.nodejs_23
       ];
 
       # Homebrew packages
