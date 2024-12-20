@@ -16,6 +16,7 @@
         pkgs.neovim
         pkgs.tmux
         pkgs.alacritty
+        pkgs.yt-dlp
         pkgs.jq
         pkgs.mkalias
         pkgs.home-manager
@@ -49,6 +50,7 @@
           "mas"
 	  "zsh-autosuggestions"
 	  "zsh-syntax-highlighting"
+          "ffmpeg"
 	  "make"
 	  "cmake"
         ];
