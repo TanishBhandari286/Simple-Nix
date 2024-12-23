@@ -63,6 +63,7 @@
           "nikitabobko/tap/aerospace"
           "obsidian"
           "font-jetbrains-mono-nerd-font"
+          "google-drive"
           "wezterm"
           "telegram"
           "visual-studio-code"
