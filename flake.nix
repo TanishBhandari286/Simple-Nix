@@ -28,7 +28,6 @@
 	pkgs.bat
 	pkgs.ripgrep
 	pkgs.thefuck
-	pkgs.ansible
 	pkgs.lazygit
 	pkgs.tmux
 	pkgs.fastfetch
@@ -51,15 +50,17 @@
 	  "zsh-autosuggestions"
 	  "zsh-syntax-highlighting"
           "ffmpeg"
+          "pipx"
 	  "make"
 	  "cmake"
         ];
         casks = [
           "hammerspoon"
           "karabiner-elements"
-          "firefox"
           "iina"
           "the-unarchiver"
+          "brave-browser"
+          "firefox"
           "nikitabobko/tap/aerospace"
           "obsidian"
           "font-jetbrains-mono-nerd-font"
@@ -68,7 +69,6 @@
           "telegram"
           "visual-studio-code"
           "intellij-idea"
-          "brave-browser"
           "whatsapp"
           "discord"
           "slack"
