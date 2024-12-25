@@ -59,6 +59,7 @@
           "karabiner-elements"
           "iina"
           "the-unarchiver"
+          "obs"
           "brave-browser"
           "firefox"
           "nikitabobko/tap/aerospace"
