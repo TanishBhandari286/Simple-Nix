@@ -58,6 +58,7 @@
           "hammerspoon"
           "karabiner-elements"
           "iina"
+          "ghostty"
           "the-unarchiver"
           "obs"
           "brave-browser"
